@@ -1,3 +1,3 @@
 # Hello, my name is Thayna!
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taykas&bg_color=0d1117&color=8244ac&line=8545b0&point=8244ac&area=true&hide_border=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taykas&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taykas&show_icons=true)
